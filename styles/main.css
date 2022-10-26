@@ -1,0 +1,5 @@
+/* Импорт css файлов */
+@import url('reset.css'); /* Обнуление */
+@import url('global.css'); /* Основные парампетры */
+@import url('fonts.css'); /* Импорт шрифтов */
+@import url('variables.css'); /* Переменные */
