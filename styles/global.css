@@ -29,9 +29,13 @@ img {
 html,
 body {
   font-family: 'Open Sans', sans-serif;
-  background-color: #E5E5E5;
+  background-color: #ffffff;
   min-width: 320px;
   height: 100%;
+}
+
+body.lock {
+  overflow: hidden;
 }
 
 .wrapper {
